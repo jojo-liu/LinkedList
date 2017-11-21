@@ -1,5 +1,6 @@
 # LinkedList
 singly linked list
+
 Design an int type singly linkedlist class, and then implement some functions below using the self designed class.
 Can not use Java built in List interface
 1. Append an element into the linkedlist
